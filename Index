@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Custom Fly Reel Shop</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <header>
+        <h1>Welcome to My Custom Fly Reel Shop</h1>
+    </header>
+
+    <main>
+        <section>
+            <div style="text-align: center;">
+                <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvJRTojI7ekplLYQS2RbNyOWHIEtO10jRn7qeuK2j9SoWwUVYB0eDumjnq5Xs2o5ard3Ki_x7D_Bo9STLsCnwEcEIhhPTw8AE7QiBN3XgnoEb116ks-6Ph1Xq64n9BqHBn3yBoaAYUniI/s1600/IMG_8482.JPG">
+                    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvJRTojI7ekplLYQS2RbNyOWHIEtO10jRn7qeuK2j9SoWwUVYB0eDumjnq5Xs2o5ard3Ki_x7D_Bo9STLsCnwEcEIhhPTw8AE7QiBN3XgnoEb116ks-6Ph1Xq64n9BqHBn3yBoaAYUniI/s1600/IMG_8482.JPG" alt="Spey Reel" width="400" height="265">
+                </a>
+            </div>
+
+            <p>
+                Please browse the menu on the left side of the page to see all the Spey reel models and finishes. 
+                If viewing on smartphone, just scroll down for purchase options. 
+                Most salmon reel assemblies head out in under one month after the order is placed, but lead times will vary depending on the time of year.
+            </p>
+            <p>
+                If you have any questions or for credit card processing, feel free to contact me. 
+                I have over 28 years experience in spey fishing and I am here to serve you.
+            </p>
+
+            <div style="text-align: center;">
+                <span style="font-size: large;"><b>Cell: 1-920-227-5574</b></span>
+            </div>
+
+            <div style="text-align: center; margin: 1em 0;">
+                <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEie_if40K2IcHhrjTXHYgG2DTklyni8U8280wVRjhgVld2vBU3FGDF0Ql7xpLCcq71hGbARdGNQ3G16fZyLJF3sxZGP2MSuQHaO7ev_bx7HPzvbQGnmG4eqD9ClFEUr5wCdElu2ZcgbD6Y/s1600/Screen+shot+2014-07-31+at+7.21.55+AM.png">
+                    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEie_if40K2IcHhrjTXHYgG2DTklyni8U8280wVRjhgVld2vBU3FGDF0Ql7xpLCcq71hGbARdGNQ3G16fZyLJF3sxZGP2MSuQHaO7ev_bx7HPzvbQGnmG4eqD9ClFEUr5wCdElu2ZcgbD6Y/s1600/Screen+shot+2014-07-31+at+7.21.55+AM.png" alt="Screenshot" width="640" height="80">
+                </a>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Your Brand. All rights reserved.</p>
+    </footer>
+
+    <script src="http://s34.sitemeter.com/js/counter.js?site=s34speyco" type="text/javascript"></script>
+</body>
+</html>
